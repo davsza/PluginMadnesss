@@ -1,0 +1,4 @@
+name: PluginMadness
+version: '${project.version}'
+main: com.davsza.hattyas.PluginMadness
+api-version: '1.20'
